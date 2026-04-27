@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\SampleTaskWpf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E126C95-52FD-4F4E-9AC0-4BB5CFF3172C}|SampleTaskWpf\\SampleTaskWpf.csproj|c:\\users\\lenovo\\source\\repos\\sampletaskwpf\\sampletaskwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2E126C95-52FD-4F4E-9AC0-4BB5CFF3172C}|SampleTaskWpf\\SampleTaskWpf.csproj|solutionrelative:sampletaskwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E126C95-52FD-4F4E-9AC0-4BB5CFF3172C}|SampleTaskWpf\\SampleTaskWpf.csproj|c:\\users\\lenovo\\source\\repos\\sampletaskwpf\\sampletaskwpf\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2E126C95-52FD-4F4E-9AC0-4BB5CFF3172C}|SampleTaskWpf\\SampleTaskWpf.csproj|solutionrelative:sampletaskwpf\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E126C95-52FD-4F4E-9AC0-4BB5CFF3172C}|SampleTaskWpf\\SampleTaskWpf.csproj|c:\\users\\lenovo\\source\\repos\\sampletaskwpf\\sampletaskwpf\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E126C95-52FD-4F4E-9AC0-4BB5CFF3172C}|SampleTaskWpf\\SampleTaskWpf.csproj|solutionrelative:sampletaskwpf\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E126C95-52FD-4F4E-9AC0-4BB5CFF3172C}|SampleTaskWpf\\SampleTaskWpf.csproj|c:\\users\\lenovo\\source\\repos\\sampletaskwpf\\sampletaskwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E126C95-52FD-4F4E-9AC0-4BB5CFF3172C}|SampleTaskWpf\\SampleTaskWpf.csproj|solutionrelative:sampletaskwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E126C95-52FD-4F4E-9AC0-4BB5CFF3172C}|SampleTaskWpf\\SampleTaskWpf.csproj|c:\\users\\lenovo\\source\\repos\\sampletaskwpf\\sampletaskwpf\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E126C95-52FD-4F4E-9AC0-4BB5CFF3172C}|SampleTaskWpf\\SampleTaskWpf.csproj|solutionrelative:sampletaskwpf\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E126C95-52FD-4F4E-9AC0-4BB5CFF3172C}|SampleTaskWpf\\SampleTaskWpf.csproj|c:\\users\\lenovo\\source\\repos\\sampletaskwpf\\sampletaskwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2E126C95-52FD-4F4E-9AC0-4BB5CFF3172C}|SampleTaskWpf\\SampleTaskWpf.csproj|solutionrelative:sampletaskwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Window1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\SampleTaskWpf\\SampleTaskWpf\\Window1.xaml.cs",
+              "RelativeDocumentMoniker": "SampleTaskWpf\\Window1.xaml.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\SampleTaskWpf\\SampleTaskWpf\\Window1.xaml.cs",
+              "RelativeToolTip": "SampleTaskWpf\\Window1.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA4wCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T09:24:16.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Window1.xaml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\SampleTaskWpf\\SampleTaskWpf\\Window1.xaml",
+              "RelativeDocumentMoniker": "SampleTaskWpf\\Window1.xaml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\SampleTaskWpf\\SampleTaskWpf\\Window1.xaml",
+              "RelativeToolTip": "SampleTaskWpf\\Window1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-26T09:15:14.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\SampleTaskWpf\\SampleTaskWpf\\App.xaml",
+              "RelativeDocumentMoniker": "SampleTaskWpf\\App.xaml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\SampleTaskWpf\\SampleTaskWpf\\App.xaml",
+              "RelativeToolTip": "SampleTaskWpf\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-26T09:12:15.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class3.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\SampleTaskWpf\\SampleTaskWpf\\Class3.cs",
+              "RelativeDocumentMoniker": "SampleTaskWpf\\Class3.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\SampleTaskWpf\\SampleTaskWpf\\Class3.cs",
+              "RelativeToolTip": "SampleTaskWpf\\Class3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T09:07:52.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\SampleTaskWpf\\SampleTaskWpf\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "SampleTaskWpf\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\SampleTaskWpf\\SampleTaskWpf\\MainWindow.xaml",
+              "RelativeToolTip": "SampleTaskWpf\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-24T15:34:33.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\SampleTaskWpf\\SampleTaskWpf\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SampleTaskWpf\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\SampleTaskWpf\\SampleTaskWpf\\MainWindow.xaml.cs",
+              "RelativeToolTip": "SampleTaskWpf\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA4wCoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T15:34:29.71Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
